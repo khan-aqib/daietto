@@ -1,0 +1,2 @@
+# daietto
+Static Site
